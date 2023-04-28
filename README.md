@@ -1,13 +1,22 @@
 # Big_Data_Project
-<style>
-  div{
-    display: flex; gap: 20px; justify-content: center}
-  } 
-  
-  img{
-    border-radius: 20px; width=50px
-  }
-</style>
+
+<svg fill="none" viewBox="0 0 800 400" width="800" height="400" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+
+      <style>
+          div{
+            display: flex; gap: 20px; justify-content: center}
+          } 
+
+          img{
+            border-radius: 20px; width=50px
+          }
+      </style>
+      
+    </div>
+  </foreignObject>
+</svg>
 contributors: 
 
 <div>
