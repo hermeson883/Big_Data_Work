@@ -6,8 +6,8 @@
 contributors: 
 
 <div class='main'>
-  <center><img src="https://avatars.githubusercontent.com/u/72263429?v=4" alt=""></center>
-  <center><img src="https://avatars.githubusercontent.com/u/64994893?v=4" alt=""></center>
+  <center><img src="https://avatars.githubusercontent.com/u/72263429?v=4" width='50px'></center>
+  <center><img src="https://avatars.githubusercontent.com/u/64994893?v=4" width='50px'></center>
 </div>
 
 A repository focused in the school course "Topics in Big Data"
