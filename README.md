@@ -3,7 +3,7 @@
 
  
       
-<center>contributors:</center>
+<h1 align='center'>contributors:</h1>
 <hr>
 <div class='main' display:"flex"; align="center">
   <a href='https://github.com/hermeson883?tab=repositories'><img src="https://avatars.githubusercontent.com/u/72263429?s=400&u=40bcc48d6b0edb21dc726fc26e5be003f3f93ac6&v=4" width='100px'></a>
