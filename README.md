@@ -3,8 +3,8 @@
 contributors: 
 
 <div style="display: flex; gap: 20px; justify-content: center;">
-  <img style=" border-radius: 20px;" src="https://avatars.githubusercontent.com/u/72263429?v=4" alt="">
-  <img style=" border-radius: 20px;" src="https://avatars.githubusercontent.com/u/64994893?v=4" alt="">
+  <img style=" border-radius: 20px; width=50px" src="https://avatars.githubusercontent.com/u/72263429?v=4" alt="">
+  <img style=" border-radius: 20px; width=50px" src="https://avatars.githubusercontent.com/u/64994893?v=4" alt="">
 </div>
 
 A repository focused in the school course "Topics in Big Data"
