@@ -6,7 +6,7 @@
 <h1 align='center' font-family: 'Roboto'>Contributors 🐍</h1>
 <hr>
 <div class='main' display:"flex"; align="center">
-  <a href='https://github.com/hermeson883?tab=repositories'><img src="https://avatars.githubusercontent.com/u/72263429?s=400&u=40bcc48d6b0edb21dc726fc26e5be003f3f93ac6&v=4" width='150px' border-radius:'20px'></a>
+  <a href='https://github.com/hermeson883?tab=repositories'><img src="https://avatars.githubusercontent.com/u/72263429?s=400&u=40bcc48d6b0edb21dc726fc26e5be003f3f93ac6&v=4" width='150px' styles='border-radius: 20px'></a>
  
   <a href='https://github.com/gabrielsoares40940/'><img src="https://avatars.githubusercontent.com/u/64994893?v=4" width='150px' border-radius:20px></a>
 </div>
