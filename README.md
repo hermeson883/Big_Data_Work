@@ -6,7 +6,10 @@
         <img style='border-radius:50%' src="https://avatars.githubusercontent.com/u/72263429?s=400&u=40bcc48d6b0edb21dc726fc26e5be003f3f93ac6&v=4" width='150px' >
     </a>
     <a href='https://github.com/gabrielsoares40940/'>
-        <img src="https://avatars.githubusercontent.com/u/64994893?v=4" width='150px'  style='border-radius:50%'>
+        <img src="https://avatars.githubusercontent.com/u/64994893?v=4" href='blank' width='150px'  style='border-radius:50%'>
+    </a>
+    <a href='https://github.com/victordsl?tab=repositories'>
+        <img src = 'https://avatars.githubusercontent.com/u/105646257?v=4' href='blank' width='150px'  style='border-radius:50%'>
     </a>
 </div>
 
